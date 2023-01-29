@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 import random
-bot = telebot.TeleBot("5839553872:AAFi3Z5o1w-LMX3nJzUug3P-5-1X2xgaSwY")
+bot = telebot.TeleBot("")
 
 start = 221
 player_number = 0
